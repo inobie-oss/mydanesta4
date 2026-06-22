@@ -1,0 +1,32 @@
+{
+  "short_name": "Dranfrean",
+  "name": "Dranfrean 2D Skele-Puppet Rig Animator",
+  "description": "2D Skeletal Animation Bone Framework with rigging, timeline keyframing, and offline rendering exports.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0b0f19",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["utilities", "graphics", "education"],
+  "dir": "ltr",
+  "lang": "en-US",
+  "prefer_related_applications": false
+}
