@@ -18,9 +18,7 @@ jobs:
           distribution: temurin
           java-version: 17
       - run: npm install
-      - run: |
-          npm install --no-save @capacitor/core@6 @capacitor/android@6
-          npm install --no-save -D @capacitor/cli@6
+      - run: npm install --no-save @capacitor/core@6 @capacitor/android@6 @capacitor/cli@6
       - run: npm run build
       - run: npx cap add android
       - run: npx cap sync android
