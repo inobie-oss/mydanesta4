@@ -1,0 +1,6 @@
+{
+  "name": "mydanest",
+  "description": "A 2D skeletal animation builder with bone rigging, image import, keyframe timelines, and video export support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
